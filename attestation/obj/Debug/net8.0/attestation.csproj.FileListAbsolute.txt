@@ -1,0 +1,15 @@
+C:\Users\007\Desktop\attestation\attestation\bin\Debug\net8.0\attestation.exe
+C:\Users\007\Desktop\attestation\attestation\bin\Debug\net8.0\attestation.deps.json
+C:\Users\007\Desktop\attestation\attestation\bin\Debug\net8.0\attestation.runtimeconfig.json
+C:\Users\007\Desktop\attestation\attestation\bin\Debug\net8.0\attestation.dll
+C:\Users\007\Desktop\attestation\attestation\bin\Debug\net8.0\attestation.pdb
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\attestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\attestation.AssemblyInfoInputs.cache
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\attestation.AssemblyInfo.cs
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\attestation.csproj.CoreCompileInputs.cache
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\attestation.sourcelink.json
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\attestation.dll
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\refint\attestation.dll
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\attestation.pdb
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\attestation.genruntimeconfig.cache
+C:\Users\007\Desktop\attestation\attestation\obj\Debug\net8.0\ref\attestation.dll
